@@ -16,6 +16,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Pride and Prejudice](ebook/Pride%20and%20Prejudice.pdf) – Jane Austen, 1813
 ## Ringkasan Pemapamaran UGC
 1. [Rangkuman UGC Syumaisi Qashmal](ebook/Rangkuman%20UGC%20Syumaisi%20Qashmal.pdf) – Muhammad Syumaisi Qashmal, 2026
+2. 
 
 ---
 Powered by GitHub Pages
