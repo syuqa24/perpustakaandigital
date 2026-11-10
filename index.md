@@ -13,7 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Tiup Tiup Diksus](ebook/Tiup%20Tiup%20Diksus.pdf) – Ana Falesthein T. A. & Larasputri, 2023
 8. [Romeo and Juliet](ebook/romeo%20and%20juliet.pdf) – William Shakespeare, 1597
 9. [Crime and Punishment](ebook/crime%20and%20punishment.pdf) – Fyodor Dostoevsky, 1866
-10. 
+10. [Pride and Prejudice](ebook/Pride%20and%20Prejudice.pdf) – Jane Austen, 1813
 
 ---
 Powered by GitHub Pages
